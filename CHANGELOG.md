@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-25)
+## Unreleased (2024-06-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2f62c39`](https://github.com/stdlib-js/stdlib/commit/2f62c39e03c5445f3cc3b91226453c2eed366013) - **chore:** update package meta data [(##2481)](#2481) _(by stdlib-bot)_
 -   [`581f5a0`](https://github.com/stdlib-js/stdlib/commit/581f5a0dd601746dbf6366d073dcc391efc601d7) - **feat:** add C implementation for `math/base/special/trunc10` [(##2451)](#2451) _(by Gunj Joshi)_
 
 </details>
