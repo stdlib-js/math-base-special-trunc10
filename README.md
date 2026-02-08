@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import trunc10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-trunc10@esm/index.mjs';
+import trunc10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-trunc10@v0.3.1-esm/index.mjs';
 ```
 
 #### trunc10( x )
@@ -120,7 +120,7 @@ v = trunc10( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import trunc10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-trunc10@esm/index.mjs';
+import trunc10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-trunc10@v0.3.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
